@@ -1,0 +1,14 @@
+body
+{
+    
+    background-color: peachpuff; 
+    color: rosybrown;
+    font-size: 20px;
+
+}
+img
+{
+transition: transform .2s;
+
+}
+img:hover{ transform: scale(0.9)}
